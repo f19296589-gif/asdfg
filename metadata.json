@@ -1,0 +1,6 @@
+{
+  "name": "Dental & Beyond - Zahlé",
+  "description": "Official modern website for Dental & Beyond, dental clinic in Zahlé, Lebanon. Cosmetic dentistry, dental implants, smile transformations, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
